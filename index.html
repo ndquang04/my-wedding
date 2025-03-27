@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Duy Quang & Thu Sương Wedding" />
+    <meta
+      name="keywords"
+      content="wedding, Duy Quang, Thu Sương, invitation, vietnam"
+    />
+    <meta name="theme-color" content="#E63946" />
+    <title>Duy Quang & Thu Sương Wedding</title>
+
+    <!-- Preconnect to external resources -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- PWA Meta Tags -->
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+    <meta
+      name="apple-mobile-web-app-title"
+      content="Duy Quang & Thu Sương Wedding"
+    />
+
+    <!-- Open Graph Meta Tags for social sharing -->
+    <meta property="og:title" content="Duy Quang & Thu Sương Wedding" />
+    <meta
+      property="og:description"
+      content="Join us for our special day on October 28, 2023"
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:image"
+      content="https://images.unsplash.com/photo-1519741497674-611481863552"
+    />
+
+    <!-- Remix Icons for better icon support -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css"
+      rel="stylesheet"
+    />
+    <!-- Embed base styles for fonts to prevent FOUC -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Montserrat:wght@300;400;500;600;700&family=Open+Sans:wght@300;400;600;700&display=swap');
+
+      :root {
+        --primary: hsl(346, 84%, 61%);
+        --secondary: #ffd700;
+        --accent: #4caf50;
+      }
+
+      body {
+        font-family: 'Open Sans', sans-serif;
+        opacity: 0;
+        transition: opacity 0.5s ease;
+      }
+
+      .font-script {
+        font-family: 'Great Vibes', cursive;
+      }
+
+      .font-heading {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 600;
+      }
+
+      /* Initial load animation */
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+
+      #root {
+        min-height: 100vh;
+      }
+
+      /* Hide scrollbar for gallery slider */
+      .no-scrollbar {
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+      }
+
+      .no-scrollbar::-webkit-scrollbar {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"
+    ></script>
+    <script>
+      window.onload = function () {
+        document.body.style.opacity = '1';
+        document.body.style.animation = 'fadeIn 1s ease-in';
+      };
+    </script>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

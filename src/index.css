@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+  }
+
+  /* Custom wedding theme styling */
+  .font-script {
+    font-family: 'Great Vibes', cursive;
+  }
+
+  .font-heading {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+  }
+
+  .bg-light-bg {
+    @apply bg-background/50;
+  }
+
+  .bg-dark-bg {
+    @apply bg-background/95;
+  }
+
+  .text-accent {
+    @apply text-primary/80;
+  }
+
+  .border-accent {
+    @apply border-primary/30;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-primary text-primary-foreground hover:bg-primary/90 rounded-md px-4 py-2 
+    transition-all shadow-md hover:shadow-lg hover:translate-y-[-2px];
+  }
+
+  .btn-outline {
+    @apply border border-primary text-primary hover:bg-primary/10
+    rounded-md px-4 py-2 transition-all;
+  }
+
+  .card {
+    @apply bg-white dark:bg-slate-800 rounded-lg shadow-md p-6 
+    transition-all hover:shadow-lg;
+  }
+
+  .section-title {
+    @apply font-script text-3xl md:text-5xl text-primary mb-3;
+  }
+
+  .section-divider {
+    @apply w-24 h-1 bg-primary mx-auto;
+  }
+}
