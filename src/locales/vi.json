@@ -1,0 +1,233 @@
+{
+  "menu": {
+    "home": "Trang Chủ",
+    "couple": "Cặp Đôi",
+    "schedule": "Lịch Trình",
+    "gallery": "Ảnh Cưới",
+    "location": "Địa Điểm",
+    "rsvp": "Xác Nhận",
+    "wishes": "Lời Chúc"
+  },
+  "hero": {
+    "weddingCeremony": "Lễ Thành Hôn",
+    "date": "25 tháng 08, 202x",
+    "rsvpButton": "Xác Nhận Tham Dự",
+    "scheduleButton": "Xem Lịch Trình",
+    "backgroundAlt": "Hình nền cưới"
+  },
+  "couple": {
+    "title": "Cặp Đôi Hạnh Phúc",
+    "groom": {
+      "name": "Nguyễn Duy Quang",
+      "description": "Nhà trai\nÔng Nguyễn Duy Tâm & Bà Nguyễn Thị Thúy",
+      "imageAlt": "Chú rể"
+    },
+    "bride": {
+      "name": "Nguyễn Thị Thu Sương",
+      "description": "Nhà gái\nÔng Nguyễn Tài Hải & Bà Nguyễn Thị Sửu",
+      "imageAlt": "Cô dâu"
+    },
+    "quote": {
+      "text": "\"Tình yêu không phải là nhìn nhau mà là cùng nhìn về một hướng.\"",
+      "author": "- Antoine de Saint-Exupéry -"
+    }
+  },
+  "timeline": {
+    "title": "Lịch Trình Hôn Lễ",
+    "events": {
+      "engagement": {
+        "title": "Lễ Ăn Hỏi",
+        "date": "25 tháng 08, 202x",
+        "time": "9:00 - 11:00",
+        "location": "Nhà cô dâu, Đông Hòa, Đông Sơn, TP.Thanh Hóa",
+        "description": "Lễ ăn hỏi sẽ được tổ chức tại nhà cô dâu với sự hiện diện của hai bên gia đình và họ hàng gần."
+      },
+      "ceremonyHome": {
+        "title": "Lễ Vu Quy",
+        "date": "26 tháng 08, 202x",
+        "time": "8:00 - 9:30",
+        "location": "Nhà cô dâu, Đông Hòa, Đông Sơn, TP.Thanh Hóa",
+        "description": "Lễ vu quy tại nhà cô dâu, nơi chú rể sẽ đến đón cô dâu về nhà trai."
+      },
+      "ceremony": {
+        "title": "Lễ Thành Hôn",
+        "date": "26 tháng 08, 202x",
+        "time": "10:00 - 12:00",
+        "location": "Đông Anh, Hà Nội",
+        "description": "Lễ cưới chính thức sẽ được tổ chức tại Đông Anh, Hà Nội với sự hiện diện của gia đình, họ hàng và bạn bè."
+      },
+      "reception": {
+        "title": "Tiệc Cưới",
+        "date": "26 tháng 08, 202x",
+        "time": "18:00 - 21:00",
+        "location": "Đông Anh, Hà Nội",
+        "description": "Tiệc cưới sẽ bắt đầu lúc 18:00 với buffet tối, âm nhạc và tiệc vui. Dress code: Bán trang trọng."
+      }
+    }
+  },
+  "gallery": {
+    "title": "Khoảnh Khắc Đẹp",
+    "subtitle": "Những khoảnh khắc đáng nhớ trong hành trình tình yêu của chúng tôi",
+    "viewAllButton": "Xem Toàn Bộ Ảnh",
+    "images": {
+      "engagement": {
+        "title": "Lễ đính hôn",
+        "date": "Tháng 5, 202x",
+        "alt": "Ảnh đính hôn của cặp đôi"
+      },
+      "prewedding": {
+        "title": "Ảnh cưới",
+        "date": "Tháng 8, 202x",
+        "alt": "Ảnh cưới trước ngày cưới"
+      },
+      "firstDate": {
+        "title": "Buổi hẹn đầu tiên",
+        "date": "Tháng 4, 2022",
+        "alt": "Buổi hẹn đầu tiên của cặp đôi"
+      },
+      "anniversary": {
+        "title": "Kỷ niệm 1 năm",
+        "date": "Tháng 4, 2023",
+        "alt": "Kỷ niệm 1 năm của cặp đôi"
+      },
+      "proposal": {
+        "title": "Lời cầu hôn",
+        "date": "Tháng 1, 202x",
+        "alt": "Khoảnh khắc cầu hôn"
+      }
+    }
+  },
+  "location": {
+    "title": "Địa Điểm Tổ Chức",
+    "getDirections": "Chỉ Đường",
+    "moreInfo": "Thông Tin",
+    "accommodationsTitle": "Thông Tin Lưu Trú",
+    "accommodationsDescription": "Đối với khách từ xa, chúng tôi đã đặt trước một số phòng tại các khách sạn gần địa điểm tổ chức lễ cưới:",
+    "discountCodeLabel": "Mã giảm giá đặc biệt",
+    "venues": {
+      "ceremony": {
+        "type": "Lễ Thành Hôn",
+        "name": "Trung tâm Tiệc cưới Quang Sương",
+        "address": "Đông Anh, Hà Nội",
+        "time": "10:00 - 12:00, 26 tháng 08, 202x",
+        "phone": "(+84) 123-456-789"
+      },
+      "reception": {
+        "type": "Tiệc Cưới",
+        "name": "Khách sạn Metropole",
+        "address": "Đông Anh, Hà Nội",
+        "time": "18:00 - 21:00, 26 tháng 08, 202x",
+        "phone": "(+84) 987-654-321"
+      }
+    },
+    "accommodations": {
+      "hotel1": {
+        "name": "Khách sạn Metropole",
+        "address": "Đông Anh, Hà Nội",
+        "discountCode": "QUANGSUONG202X"
+      },
+      "hotel2": {
+        "name": "Khách sạn Hilton Hanoi",
+        "address": "Đông Anh, Hà Nội",
+        "discountCode": "QUANGSUONG202X"
+      }
+    }
+  },
+  "rsvp": {
+    "title": "Xác Nhận Tham Dự",
+    "subtitle": "Chúng tôi rất mong được đón tiếp bạn trong ngày đặc biệt này. Vui lòng xác nhận tham dự trước ngày",
+    "deadline": "25 tháng 08, 202x",
+    "form": {
+      "nameLabel": "Họ và tên",
+      "namePlaceholder": "Nguyễn Văn A",
+      "emailLabel": "Địa chỉ email",
+      "emailPlaceholder": "example@email.com",
+      "phoneLabel": "Số điện thoại",
+      "phonePlaceholder": "(+84) 123-456-789",
+      "attendingLabel": "Bạn có thể tham dự không?",
+      "attendingYes": "Có, tôi sẽ tham dự",
+      "attendingNo": "Rất tiếc, tôi không thể tham dự",
+      "guestsLabel": "Số lượng người đi cùng (nếu có)",
+      "guestsOptions": {
+        "none": "Chỉ có tôi",
+        "one": "1 người",
+        "two": "2 người",
+        "three": "3 người",
+        "four": "4 người",
+        "fivePlus": "5 người trở lên (vui lòng ghi chú)"
+      },
+      "eventsLabel": "Bạn sẽ tham dự sự kiện nào?",
+      "eventsCeremony": "Lễ Thành Hôn (10:00)",
+      "eventsReception": "Tiệc Cưới (18:00)",
+      "dietaryLabel": "Yêu cầu ăn uống đặc biệt",
+      "dietaryPlaceholder": "Nếu bạn có yêu cầu đặc biệt về ăn uống, vui lòng cho chúng tôi biết.",
+      "messageLabel": "Lời nhắn cho cặp đôi (tùy chọn)",
+      "messagePlaceholder": "Gửi lời chúc hoặc lời nhắn cho cặp đôi...",
+      "submitButton": "Gửi Xác Nhận",
+      "submitting": "Đang gửi..."
+    },
+    "successToast": {
+      "title": "Xác nhận thành công!",
+      "description": "Cảm ơn bạn đã xác nhận tham dự. Chúng tôi rất mong được gặp bạn tại lễ cưới!"
+    },
+    "errorToast": {
+      "title": "Đã xảy ra lỗi!",
+      "description": "Không thể gửi xác nhận của bạn. Vui lòng thử lại sau."
+    }
+  },
+  "wishes": {
+    "title": "Lời Chúc",
+    "subtitle": "Hãy gửi lời chúc mừng đến cặp đôi trong ngày trọng đại của họ",
+    "loading": "Đang tải lời chúc...",
+    "error": "Không thể tải lời chúc. Vui lòng thử lại sau.",
+    "noComments": "Chưa có lời chúc nào. Hãy là người đầu tiên!",
+    "loadMoreButton": "Xem Thêm Lời Chúc",
+    "loadingMore": "Đang tải thêm...",
+    "form": {
+      "nameLabel": "Họ và tên",
+      "namePlaceholder": "Nguyễn Văn A",
+      "commentLabel": "Lời chúc của bạn",
+      "commentPlaceholder": "Viết lời chúc cho cặp đôi...",
+      "submitButton": "Gửi Lời Chúc",
+      "submitting": "Đang gửi..."
+    },
+    "successToast": {
+      "title": "Gửi lời chúc thành công!",
+      "description": "Cảm ơn bạn đã gửi lời chúc. Lời chúc của bạn đã được đăng."
+    },
+    "errorToast": {
+      "title": "Đã xảy ra lỗi!",
+      "description": "Không thể gửi lời chúc của bạn. Vui lòng thử lại sau."
+    },
+    "validationToast": {
+      "title": "Thiếu thông tin!",
+      "description": "Vui lòng nhập đầy đủ tên và lời chúc của bạn."
+    },
+    "reactionErrorToast": {
+      "title": "Đã xảy ra lỗi!",
+      "description": "Không thể thêm biểu cảm. Vui lòng thử lại sau."
+    }
+  },
+  "emojiPicker": {
+    "title": "Chọn biểu tượng cảm xúc"
+  },
+  "footer": {
+    "coupleNames": "Duy Quang & Thu Sương",
+    "date": "25 tháng 8, 202x",
+    "venue": "Trung tâm Tiệc cưới Quang Sương, Hà Nội",
+    "copyright": "Duy Quang & Thu Sương. Tất cả quyền được bảo lưu."
+  },
+  "accessibility": {
+    "switchToDarkMode": "Chuyển sang chế độ tối",
+    "switchToLightMode": "Chuyển sang chế độ sáng",
+    "closeMenu": "Đóng menu",
+    "openMenu": "Mở menu",
+    "scrollDown": "Cuộn xuống",
+    "backToTop": "Trở lại đầu trang",
+    "close": "Đóng",
+    "selectEmoji": "Chọn biểu tượng cảm xúc",
+    "previousSlide": "Trước đó",
+    "nextSlide": "Tiếp theo",
+    "goToSlide": "Đi đến trang {{number}}"
+  }
+}

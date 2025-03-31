@@ -1,0 +1,233 @@
+{
+  "menu": {
+    "home": "Home",
+    "couple": "Couple",
+    "schedule": "Schedule",
+    "gallery": "Gallery",
+    "location": "Location",
+    "rsvp": "RSVP",
+    "wishes": "Wishes"
+  },
+  "hero": {
+    "weddingCeremony": "Wedding Ceremony",
+    "date": "August 25, 202x",
+    "rsvpButton": "RSVP Now",
+    "scheduleButton": "View Schedule",
+    "backgroundAlt": "Wedding background image"
+  },
+  "couple": {
+    "title": "Happy Couple",
+    "groom": {
+      "name": "Nguyen Duy Quang",
+      "description": "Youngest son of\nMr. Nguyen Duy Tam & Mrs. Nguyen Thi Thuy",
+      "imageAlt": "Groom"
+    },
+    "bride": {
+      "name": "Nguyen Thi Thu Suong",
+      "description": "Eldest daughter of\nMr. Nguyen Tai Hai & Mrs. Nguyen Thi Suu",
+      "imageAlt": "Bride"
+    },
+    "quote": {
+      "text": "\"Love does not consist in gazing at each other, but in looking outward together in the same direction.\"",
+      "author": "- Antoine de Saint-Exupéry -"
+    }
+  },
+  "timeline": {
+    "title": "Wedding Schedule",
+    "events": {
+      "engagement": {
+        "title": "Engagement Ceremony",
+        "date": "August 25, 202x",
+        "time": "9:00 - 11:00",
+        "location": "Bride's home, Dong Anh, Hanoi",
+        "description": "The engagement ceremony will be held at the bride's home with the presence of both families and close relatives."
+      },
+      "ceremonyHome": {
+        "title": "Bride's Home Ceremony",
+        "date": "August 25, 202x",
+        "time": "8:00 - 9:30",
+        "location": "Bride's home, Dong Anh, Hanoi",
+        "description": "Ceremony at the bride's home, where the groom will come to escort the bride to his home."
+      },
+      "ceremony": {
+        "title": "Wedding Ceremony",
+        "date": "August 25, 202x",
+        "time": "10:00 - 12:00",
+        "location": "Quang Suong Wedding Center, Hanoi",
+        "description": "The official wedding ceremony will be held at Quang Suong Wedding Center with the presence of family, relatives, and friends."
+      },
+      "reception": {
+        "title": "Wedding Reception",
+        "date": "August 25, 202x",
+        "time": "18:00 - 21:00",
+        "location": "Metropole Hotel, 789 Ly Thuong Kiet Street, Hanoi",
+        "description": "The reception will start at 18:00 with dinner buffet, music, and celebrations. Dress code: Semi-formal."
+      }
+    }
+  },
+  "gallery": {
+    "title": "Beautiful Moments",
+    "subtitle": "Memorable moments from our love journey",
+    "viewAllButton": "View All Photos",
+    "images": {
+      "engagement": {
+        "title": "Engagement",
+        "date": "May, 2023",
+        "alt": "Couple engagement photo"
+      },
+      "prewedding": {
+        "title": "Pre-wedding",
+        "date": "August, 2023",
+        "alt": "Pre-wedding photo shoot"
+      },
+      "firstDate": {
+        "title": "First Date",
+        "date": "January, 2021",
+        "alt": "Couple's first date"
+      },
+      "anniversary": {
+        "title": "1st Anniversary",
+        "date": "January, 2022",
+        "alt": "Couple's anniversary"
+      },
+      "proposal": {
+        "title": "Proposal",
+        "date": "December, 2022",
+        "alt": "Proposal moment"
+      }
+    }
+  },
+  "location": {
+    "title": "Venues",
+    "getDirections": "Get Directions",
+    "moreInfo": "More Info",
+    "accommodationsTitle": "Accommodation Information",
+    "accommodationsDescription": "For guests from out of town, we have reserved a block of rooms at hotels near the wedding venues:",
+    "discountCodeLabel": "Special discount code",
+    "venues": {
+      "ceremony": {
+        "type": "Wedding Ceremony",
+        "name": "Hoa Sen Wedding Center",
+        "address": "456 Nguyen Hue Street, District 1, Hanoi",
+        "time": "10:00 - 12:00, August 25, 202x",
+        "phone": "(+84) 123-456-789"
+      },
+      "reception": {
+        "type": "Wedding Reception",
+        "name": "Metropole Hotel",
+        "address": "789 Ly Thuong Kiet Street, Hoan Kiem District, Hanoi",
+        "time": "18:00 - 21:00, August 25, 202x",
+        "phone": "(+84) 987-654-321"
+      }
+    },
+    "accommodations": {
+      "hotel1": {
+        "name": "Metropole Hotel",
+        "address": "789 Ly Thuong Kiet Street, Hoan Kiem District",
+        "discountCode": "MINHHOA2023"
+      },
+      "hotel2": {
+        "name": "Hilton Hanoi Hotel",
+        "address": "101 Hai Ba Trung Street, Hoan Kiem District",
+        "discountCode": "MINHHOA2023"
+      }
+    }
+  },
+  "rsvp": {
+    "title": "RSVP",
+    "subtitle": "We look forward to celebrating with you. Please confirm your attendance by",
+    "deadline": "August 25, 202x",
+    "form": {
+      "nameLabel": "Full Name",
+      "namePlaceholder": "John Doe",
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "example@email.com",
+      "phoneLabel": "Phone Number",
+      "phonePlaceholder": "(+84) 123-456-789",
+      "attendingLabel": "Will you attend?",
+      "attendingYes": "Yes, I will attend",
+      "attendingNo": "Sorry, I can't attend",
+      "guestsLabel": "Number of accompanying guests (if any)",
+      "guestsOptions": {
+        "none": "Just me",
+        "one": "1 person",
+        "two": "2 people",
+        "three": "3 people",
+        "four": "4 people",
+        "fivePlus": "5+ people (please note)"
+      },
+      "eventsLabel": "Which events will you attend?",
+      "eventsCeremony": "Wedding Ceremony (10:00)",
+      "eventsReception": "Wedding Reception (18:00)",
+      "dietaryLabel": "Dietary Requirements",
+      "dietaryPlaceholder": "If you have special dietary requirements, please let us know.",
+      "messageLabel": "Message for the couple (optional)",
+      "messagePlaceholder": "Send your wishes or message to the couple...",
+      "submitButton": "Submit RSVP",
+      "submitting": "Submitting..."
+    },
+    "successToast": {
+      "title": "RSVP Successful!",
+      "description": "Thank you for your response. We look forward to seeing you at our wedding!"
+    },
+    "errorToast": {
+      "title": "Error Occurred!",
+      "description": "Unable to submit your RSVP. Please try again later."
+    }
+  },
+  "wishes": {
+    "title": "Wishes",
+    "subtitle": "Send your congratulatory messages to the couple on their special day",
+    "loading": "Loading wishes...",
+    "error": "Unable to load wishes. Please try again later.",
+    "noComments": "No wishes yet. Be the first to leave a wish!",
+    "loadMoreButton": "Load More Wishes",
+    "loadingMore": "Loading more...",
+    "form": {
+      "nameLabel": "Full Name",
+      "namePlaceholder": "John Doe",
+      "commentLabel": "Your Wish",
+      "commentPlaceholder": "Write your wishes for the couple...",
+      "submitButton": "Send Wish",
+      "submitting": "Sending..."
+    },
+    "successToast": {
+      "title": "Wish sent successfully!",
+      "description": "Thank you for your wishes. Your message has been posted."
+    },
+    "errorToast": {
+      "title": "Error Occurred!",
+      "description": "Unable to send your wish. Please try again later."
+    },
+    "validationToast": {
+      "title": "Missing Information!",
+      "description": "Please enter your name and wish."
+    },
+    "reactionErrorToast": {
+      "title": "Error Occurred!",
+      "description": "Unable to add reaction. Please try again later."
+    }
+  },
+  "emojiPicker": {
+    "title": "Choose an Emoji"
+  },
+  "footer": {
+    "coupleNames": "Duy Quang & Thu Sương",
+    "date": "August 25, 202x",
+    "venue": "Quang Suong Wedding Center, Hanoi",
+    "copyright": "Duy Quang & Thu Sương. All rights reserved."
+  },
+  "accessibility": {
+    "switchToDarkMode": "Switch to dark mode",
+    "switchToLightMode": "Switch to light mode",
+    "closeMenu": "Close menu",
+    "openMenu": "Open menu",
+    "scrollDown": "Scroll down",
+    "backToTop": "Back to top",
+    "close": "Close",
+    "selectEmoji": "Select emoji",
+    "previousSlide": "Previous slide",
+    "nextSlide": "Next slide",
+    "goToSlide": "Go to slide {{number}}"
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "menu": {
+    "home": "홈",
+    "couple": "커플",
+    "schedule": "일정",
+    "gallery": "갤러리",
+    "location": "장소",
+    "rsvp": "참석 여부",
+    "wishes": "축하 메시지"
+  },
+  "hero": {
+    "weddingCeremony": "결혼식",
+    "date": "2023년 10월 28일",
+    "rsvpButton": "참석 여부 확인",
+    "scheduleButton": "일정 보기",
+    "backgroundAlt": "결혼식 배경 이미지"
+  },
+  "couple": {
+    "title": "행복한 커플",
+    "groom": {
+      "name": "응우옌 반 민",
+      "description": "응우옌 반 바와 쩐 티 하이의 막내 아들",
+      "imageAlt": "신랑"
+    },
+    "bride": {
+      "name": "레 티 화",
+      "description": "레 반 투와 팜 티 마이의 장녀",
+      "imageAlt": "신부"
+    },
+    "quote": {
+      "text": "\"사랑은 서로를 바라보는 것이 아니라 함께 같은 방향을 바라보는 것이다.\"",
+      "author": "- 앙투안 드 생텍쥐페리 -"
+    }
+  },
+  "timeline": {
+    "title": "결혼식 일정",
+    "events": {
+      "engagement": {
+        "title": "약혼식",
+        "date": "2023년 10월 26일",
+        "time": "9:00 - 11:00",
+        "location": "신부 집, 하노이, 레 로이 거리 123번",
+        "description": "약혼식은 신부의 집에서 양가 가족과 가까운 친척들이 참석한 가운데 진행됩니다."
+      },
+      "ceremonyHome": {
+        "title": "신부 집 의식",
+        "date": "2023년 10월 28일",
+        "time": "8:00 - 9:30",
+        "location": "신부 집, 하노이, 레 로이 거리 123번",
+        "description": "신부 집에서의 의식, 신랑이 신부를 자신의 집으로 데려가기 위해 방문합니다."
+      },
+      "ceremony": {
+        "title": "결혼식",
+        "date": "2023년 10월 28일",
+        "time": "10:00 - 12:00",
+        "location": "화센 웨딩 센터, 하노이, 응우옌 후에 거리 456번",
+        "description": "공식 결혼식은 화센 웨딩 센터에서 가족, 친척 및 친구들이 참석한 가운데 진행됩니다."
+      },
+      "reception": {
+        "title": "결혼 피로연",
+        "date": "2023년 10월 28일",
+        "time": "18:00 - 21:00",
+        "location": "메트로폴 호텔, 하노이, 리 트엉 키엣 거리 789번",
+        "description": "피로연은 18:00에 저녁 뷔페, 음악 및 축하와 함께 시작됩니다. 드레스 코드: 세미 정장."
+      }
+    }
+  },
+  "gallery": {
+    "title": "아름다운 순간들",
+    "subtitle": "우리의 사랑 여정에서 기억에 남는 순간들",
+    "viewAllButton": "모든 사진 보기",
+    "images": {
+      "engagement": {
+        "title": "약혼",
+        "date": "2023년 5월",
+        "alt": "커플 약혼 사진"
+      },
+      "prewedding": {
+        "title": "웨딩 촬영",
+        "date": "2023년 8월",
+        "alt": "웨딩 촬영"
+      },
+      "firstDate": {
+        "title": "첫 데이트",
+        "date": "2021년 1월",
+        "alt": "커플의 첫 데이트"
+      },
+      "anniversary": {
+        "title": "1주년 기념일",
+        "date": "2022년 1월",
+        "alt": "커플의 기념일"
+      },
+      "proposal": {
+        "title": "프로포즈",
+        "date": "2022년 12월",
+        "alt": "프로포즈 순간"
+      }
+    }
+  },
+  "location": {
+    "title": "장소",
+    "getDirections": "길 찾기",
+    "moreInfo": "더 많은 정보",
+    "accommodationsTitle": "숙박 정보",
+    "accommodationsDescription": "원거리에서 오시는 분들을 위해 결혼식 장소 근처의 호텔에 객실을 예약해 두었습니다:",
+    "discountCodeLabel": "특별 할인 코드",
+    "venues": {
+      "ceremony": {
+        "type": "결혼식",
+        "name": "화센 웨딩 센터",
+        "address": "하노이, 1구, 응우옌 후에 거리 456번",
+        "time": "10:00 - 12:00, 2023년 10월 28일",
+        "phone": "(+84) 123-456-789"
+      },
+      "reception": {
+        "type": "결혼 피로연",
+        "name": "메트로폴 호텔",
+        "address": "하노이, 호안키엠 구, 리 트엉 키엣 거리 789번",
+        "time": "18:00 - 21:00, 2023년 10월 28일",
+        "phone": "(+84) 987-654-321"
+      }
+    },
+    "accommodations": {
+      "hotel1": {
+        "name": "메트로폴 호텔",
+        "address": "하노이, 호안키엠 구, 리 트엉 키엣 거리 789번",
+        "discountCode": "MINHHOA2023"
+      },
+      "hotel2": {
+        "name": "힐튼 하노이 호텔",
+        "address": "하노이, 호안키엠 구, 하이 바 쯩 거리 101번",
+        "discountCode": "MINHHOA2023"
+      }
+    }
+  },
+  "rsvp": {
+    "title": "참석 여부",
+    "subtitle": "우리와 함께 축하하기를 기대합니다. 다음 날짜까지 참석 여부를 확인해 주세요",
+    "deadline": "2023년 10월 20일",
+    "form": {
+      "nameLabel": "성명",
+      "namePlaceholder": "홍길동",
+      "emailLabel": "이메일 주소",
+      "emailPlaceholder": "example@email.com",
+      "phoneLabel": "전화번호",
+      "phonePlaceholder": "(+84) 123-456-789",
+      "attendingLabel": "참석하시겠습니까?",
+      "attendingYes": "네, 참석하겠습니다",
+      "attendingNo": "죄송합니다만, 참석할 수 없습니다",
+      "guestsLabel": "동반 손님 수(있는 경우)",
+      "guestsOptions": {
+        "none": "나만",
+        "one": "1명",
+        "two": "2명",
+        "three": "3명",
+        "four": "4명",
+        "fivePlus": "5명 이상(메모 부탁드립니다)"
+      },
+      "eventsLabel": "어떤 행사에 참석하시겠습니까?",
+      "eventsCeremony": "결혼식(10:00)",
+      "eventsReception": "결혼 피로연(18:00)",
+      "dietaryLabel": "식이 요구사항",
+      "dietaryPlaceholder": "특별한 식이 요구사항이 있으시면 알려주세요.",
+      "messageLabel": "커플에게 전하는 메시지(선택 사항)",
+      "messagePlaceholder": "커플에게 축하 메시지를 보내주세요...",
+      "submitButton": "참석 여부 제출",
+      "submitting": "제출 중..."
+    },
+    "successToast": {
+      "title": "참석 여부 확인 성공!",
+      "description": "응답해 주셔서 감사합니다. 결혼식에서 뵙기를 기대합니다!"
+    },
+    "errorToast": {
+      "title": "오류가 발생했습니다!",
+      "description": "참석 여부를 제출할 수 없습니다. 나중에 다시 시도해 주세요."
+    }
+  },
+  "wishes": {
+    "title": "축하 메시지",
+    "subtitle": "특별한 날에 커플에게 축하 메시지를 보내주세요",
+    "loading": "메시지 로딩 중...",
+    "error": "메시지를 로드할 수 없습니다. 나중에 다시 시도해 주세요.",
+    "noComments": "아직 메시지가 없습니다. 첫 번째 메시지를 남겨주세요!",
+    "loadMoreButton": "더 많은 메시지 보기",
+    "loadingMore": "더 로딩 중...",
+    "form": {
+      "nameLabel": "성명",
+      "namePlaceholder": "홍길동",
+      "commentLabel": "축하 메시지",
+      "commentPlaceholder": "커플에게 축하 메시지를 작성해 주세요...",
+      "submitButton": "메시지 보내기",
+      "submitting": "보내는 중..."
+    },
+    "successToast": {
+      "title": "메시지가 성공적으로 전송되었습니다!",
+      "description": "축하 메시지를 보내주셔서 감사합니다. 메시지가 게시되었습니다."
+    },
+    "errorToast": {
+      "title": "오류가 발생했습니다!",
+      "description": "메시지를 보낼 수 없습니다. 나중에 다시 시도해 주세요."
+    },
+    "validationToast": {
+      "title": "정보가 누락되었습니다!",
+      "description": "이름과 메시지를 입력해 주세요."
+    },
+    "reactionErrorToast": {
+      "title": "오류가 발생했습니다!",
+      "description": "반응을 추가할 수 없습니다. 나중에 다시 시도해 주세요."
+    }
+  },
+  "emojiPicker": {
+    "title": "이모티콘 선택"
+  },
+  "footer": {
+    "coupleNames": "민 & 화",
+    "date": "202x년 08월 25일",
+    "venue": "화센 웨딩 센터, 하노이",
+    "copyright": "민 & 화. 모든 권리 보유."
+  },
+  "accessibility": {
+    "switchToDarkMode": "다크 모드로 전환",
+    "switchToLightMode": "라이트 모드로 전환",
+    "closeMenu": "메뉴 닫기",
+    "openMenu": "메뉴 열기",
+    "scrollDown": "아래로 스크롤",
+    "backToTop": "맨 위로 이동",
+    "close": "닫기",
+    "selectEmoji": "이모티콘 선택",
+    "previousSlide": "이전 슬라이드",
+    "nextSlide": "다음 슬라이드",
+    "goToSlide": "슬라이드 {{number}}로 이동"
+  }
+}

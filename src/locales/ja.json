@@ -1,0 +1,233 @@
+{
+  "menu": {
+    "home": "ホーム",
+    "couple": "カップル",
+    "schedule": "スケジュール",
+    "gallery": "ギャラリー",
+    "location": "場所",
+    "rsvp": "出欠確認",
+    "wishes": "お祝いメッセージ"
+  },
+  "hero": {
+    "weddingCeremony": "結婚式",
+    "date": "2023年10月28日",
+    "rsvpButton": "出欠確認する",
+    "scheduleButton": "スケジュールを見る",
+    "backgroundAlt": "結婚式の背景画像"
+  },
+  "couple": {
+    "title": "幸せなカップル",
+    "groom": {
+      "name": "グエン・バン・ミン",
+      "description": "グエン・バン・バとチャン・ティ・ハイの末息子",
+      "imageAlt": "新郎"
+    },
+    "bride": {
+      "name": "レ・ティ・ホア",
+      "description": "レ・バン・トゥとファム・ティ・マイの長女",
+      "imageAlt": "新婦"
+    },
+    "quote": {
+      "text": "「愛とは見つめ合うことではなく、一緒に同じ方向を見つめることである。」",
+      "author": "- アントワーヌ・ド・サン＝テグジュペリ -"
+    }
+  },
+  "timeline": {
+    "title": "結婚式のスケジュール",
+    "events": {
+      "engagement": {
+        "title": "婚約式",
+        "date": "2023年10月26日",
+        "time": "9:00 - 11:00",
+        "location": "新婦の家、ハノイ、レ・ロイ通り123番",
+        "description": "婚約式は新婦の家で両家族と近親者の立ち合いのもとで行われます。"
+      },
+      "ceremonyHome": {
+        "title": "新婦の家での儀式",
+        "date": "2023年10月28日",
+        "time": "8:00 - 9:30",
+        "location": "新婦の家、ハノイ、レ・ロイ通り123番",
+        "description": "新婦の家での儀式、新郎が新婦を迎えに来て自宅へ連れて行きます。"
+      },
+      "ceremony": {
+        "title": "結婚式",
+        "date": "2023年10月28日",
+        "time": "10:00 - 12:00",
+        "location": "ホアセン・ウェディングセンター、ハノイ、グエン・フエ通り456番",
+        "description": "正式な結婚式はホアセン・ウェディングセンターで家族、親戚、友人の立ち合いのもとで行われます。"
+      },
+      "reception": {
+        "title": "披露宴",
+        "date": "2023年10月28日",
+        "time": "18:00 - 21:00",
+        "location": "メトロポールホテル、ハノイ、リー・トゥオン・キエット通り789番",
+        "description": "披露宴は18:00からディナーブッフェ、音楽、お祝いが始まります。ドレスコード：セミフォーマル。"
+      }
+    }
+  },
+  "gallery": {
+    "title": "美しい瞬間",
+    "subtitle": "私たちの愛の旅路における思い出の瞬間",
+    "viewAllButton": "すべての写真を見る",
+    "images": {
+      "engagement": {
+        "title": "婚約",
+        "date": "2023年5月",
+        "alt": "カップルの婚約写真"
+      },
+      "prewedding": {
+        "title": "前撮り",
+        "date": "2023年8月",
+        "alt": "前撮り写真撮影"
+      },
+      "firstDate": {
+        "title": "初デート",
+        "date": "2021年1月",
+        "alt": "カップルの初デート"
+      },
+      "anniversary": {
+        "title": "1周年記念",
+        "date": "2022年1月",
+        "alt": "カップルの記念日"
+      },
+      "proposal": {
+        "title": "プロポーズ",
+        "date": "2022年12月",
+        "alt": "プロポーズの瞬間"
+      }
+    }
+  },
+  "location": {
+    "title": "会場",
+    "getDirections": "道順を確認",
+    "moreInfo": "詳細情報",
+    "accommodationsTitle": "宿泊情報",
+    "accommodationsDescription": "遠方からのゲストのために、結婚式会場近くのホテルに部屋を予約しています：",
+    "discountCodeLabel": "特別割引コード",
+    "venues": {
+      "ceremony": {
+        "type": "結婚式",
+        "name": "ホアセン・ウェディングセンター",
+        "address": "ハノイ、第1区、グエン・フエ通り456番",
+        "time": "10:00 - 12:00、2023年10月28日",
+        "phone": "(+84) 123-456-789"
+      },
+      "reception": {
+        "type": "披露宴",
+        "name": "メトロポールホテル",
+        "address": "ハノイ、ホアンキエム区、リー・トゥオン・キエット通り789番",
+        "time": "18:00 - 21:00、2023年10月28日",
+        "phone": "(+84) 987-654-321"
+      }
+    },
+    "accommodations": {
+      "hotel1": {
+        "name": "メトロポールホテル",
+        "address": "ハノイ、ホアンキエム区、リー・トゥオン・キエット通り789番",
+        "discountCode": "MINHHOA2023"
+      },
+      "hotel2": {
+        "name": "ヒルトンハノイホテル",
+        "address": "ハノイ、ホアンキエム区、ハイバーチュン通り101番",
+        "discountCode": "MINHHOA2023"
+      }
+    }
+  },
+  "rsvp": {
+    "title": "出欠確認",
+    "subtitle": "私たちとのお祝いを楽しみにしています。以下の日付までに参加の有無をご確認ください",
+    "deadline": "2023年10月20日",
+    "form": {
+      "nameLabel": "氏名",
+      "namePlaceholder": "山田太郎",
+      "emailLabel": "メールアドレス",
+      "emailPlaceholder": "example@email.com",
+      "phoneLabel": "電話番号",
+      "phonePlaceholder": "(+84) 123-456-789",
+      "attendingLabel": "参加されますか？",
+      "attendingYes": "はい、参加します",
+      "attendingNo": "申し訳ありませんが、参加できません",
+      "guestsLabel": "同伴者の数（いる場合）",
+      "guestsOptions": {
+        "none": "自分だけ",
+        "one": "1名",
+        "two": "2名",
+        "three": "3名",
+        "four": "4名",
+        "fivePlus": "5名以上（ご注記ください）"
+      },
+      "eventsLabel": "参加するイベントは？",
+      "eventsCeremony": "結婚式（10:00）",
+      "eventsReception": "披露宴（18:00）",
+      "dietaryLabel": "食事の制限",
+      "dietaryPlaceholder": "特別な食事の要件がある場合は、お知らせください。",
+      "messageLabel": "カップルへのメッセージ（任意）",
+      "messagePlaceholder": "カップルへのお祝いやメッセージを送ってください...",
+      "submitButton": "出欠確認を送信",
+      "submitting": "送信中..."
+    },
+    "successToast": {
+      "title": "出欠確認が完了しました！",
+      "description": "ご回答ありがとうございます。結婚式でお会いできることを楽しみにしています！"
+    },
+    "errorToast": {
+      "title": "エラーが発生しました！",
+      "description": "出欠確認を送信できませんでした。後ほど再試行してください。"
+    }
+  },
+  "wishes": {
+    "title": "お祝いメッセージ",
+    "subtitle": "特別な日に、カップルへのお祝いメッセージをお送りください",
+    "loading": "メッセージを読み込み中...",
+    "error": "メッセージを読み込めませんでした。後ほど再試行してください。",
+    "noComments": "まだメッセージはありません。最初のメッセージを残してください！",
+    "loadMoreButton": "もっと見る",
+    "loadingMore": "読み込み中...",
+    "form": {
+      "nameLabel": "氏名",
+      "namePlaceholder": "山田太郎",
+      "commentLabel": "お祝いメッセージ",
+      "commentPlaceholder": "カップルへのお祝いメッセージを書いてください...",
+      "submitButton": "メッセージを送信",
+      "submitting": "送信中..."
+    },
+    "successToast": {
+      "title": "メッセージが送信されました！",
+      "description": "お祝いのメッセージをありがとうございます。投稿されました。"
+    },
+    "errorToast": {
+      "title": "エラーが発生しました！",
+      "description": "メッセージを送信できませんでした。後ほど再試行してください。"
+    },
+    "validationToast": {
+      "title": "情報が不足しています！",
+      "description": "名前とメッセージを入力してください。"
+    },
+    "reactionErrorToast": {
+      "title": "エラーが発生しました！",
+      "description": "リアクションを追加できませんでした。後ほど再試行してください。"
+    }
+  },
+  "emojiPicker": {
+    "title": "絵文字を選択"
+  },
+  "footer": {
+    "coupleNames": "ミン & ホア",
+    "date": "202x年08月25日",
+    "venue": "ホアセン・ウェディングセンター、ハノイ",
+    "copyright": "ミン & ホア。全著作権所有。"
+  },
+  "accessibility": {
+    "switchToDarkMode": "ダークモードに切り替え",
+    "switchToLightMode": "ライトモードに切り替え",
+    "closeMenu": "メニューを閉じる",
+    "openMenu": "メニューを開く",
+    "scrollDown": "下にスクロール",
+    "backToTop": "トップに戻る",
+    "close": "閉じる",
+    "selectEmoji": "絵文字を選択",
+    "previousSlide": "前のスライド",
+    "nextSlide": "次のスライド",
+    "goToSlide": "スライド{{number}}に移動"
+  }
+}

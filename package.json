@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
@@ -85,6 +85,9 @@
     "@types/react": "^18.3.18",
     "@types/react-dom": "^18.3.5",
     "@vitejs/plugin-react-swc": "^3.5.0",
+    "@tailwindcss/typography": "^0.5.15",
+    "@replit/vite-plugin-cartographer": "^0.0.11",
+    "@replit/vite-plugin-runtime-error-modal": "^0.0.3",
     "autoprefixer": "^10.4.21",
     "drizzle-kit": "^0.30.4",
     "eslint": "^9.17.0",
